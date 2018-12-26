@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author nahama
- *
- */
-module PacGame {
-}
